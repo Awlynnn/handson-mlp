@@ -1,0 +1,3 @@
+Numpy resource: https://numpy.org/ 
+
+Scikit.learn resource: https://scikit-learn.org/stable/ 
